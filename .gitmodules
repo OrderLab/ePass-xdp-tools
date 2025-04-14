@@ -1,4 +1,4 @@
 [submodule "libbpf"]
 	path = lib/libbpf
-	url = https://github.com/libbpf/libbpf.git
+	url = git@github.com:OrderLab/ePass-libbpf.git
 	ignore = untracked
